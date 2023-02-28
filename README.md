@@ -27,6 +27,7 @@ const rs = await guard();if (rs == false) {return}
 Protect Multiple click and get last click only
 
 ```bash
-  <script scr="https://raw.githubusercontent.com/kabirslack/functions/main/xnvd.js"></script>
+  <script scr="https://raw.githubusercontent.com/kabirslack/functions/main/cp.js"></script>
+  
 ```
-https://raw.githubusercontent.com/kabirslack/functions/main/cp.js
+
