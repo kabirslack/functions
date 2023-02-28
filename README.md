@@ -1,5 +1,5 @@
 
-## xnvd()
+## xnvd() 
 
 Remove navidium from cart
 
@@ -21,3 +21,12 @@ Usages:
 ```bash 
 const rs = await guard();if (rs == false) {return}
 ```
+
+## cp() | Click Protection
+
+Protect Multiple click and get last click only
+
+```bash
+  <script scr="https://raw.githubusercontent.com/kabirslack/functions/main/xnvd.js"></script>
+```
+https://raw.githubusercontent.com/kabirslack/functions/main/cp.js
