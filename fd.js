@@ -1,0 +1,1 @@
+const fd=async()=>{let t=sessionStorage.getItem("guardStart");if(null==t)return sessionStorage.setItem("guardStart",Date.now()),!0;if(null!=t){let t=sessionStorage.getItem("guardStart");t=Number(t);let e=Date.now();return t+=5e3,!(e<t)&&(sessionStorage.setItem("guardStart",Date.now()),!0)}};
